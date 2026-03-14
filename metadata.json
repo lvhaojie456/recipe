@@ -1,0 +1,5 @@
+{
+  "name": "ChefGenie",
+  "description": "一个由人工智能驱动的个性化食谱推荐引擎，根据您的饮食需求、现有食材和烹饪目标为您量身定制膳食。",
+  "requestFramePermissions": []
+}
